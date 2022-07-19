@@ -17,6 +17,7 @@ jobs:
       matrix:
         include:
           - ruby: ruby:2.5
+            rails: 4.2
           - ruby: ruby:2.6
           - ruby: ruby:2.7
           - ruby: ruby:3.0
